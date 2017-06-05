@@ -1,17 +1,17 @@
-# Copyright (C) 2016 Mohammed Thaer
+# Copyright (C) 2017 Mohammed Thaer
 # This file is distributed under the same license as the WP Premium Posts package.
 msgid ""
 msgstr ""
 "Project-Id-Version: WP Premium Posts 1.1.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-premium-posts\n"
-"POT-Creation-Date: 2016-06-01 21:29:31+00:00\n"
+"POT-Creation-Date: 2017-05-04 18:47:42+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"X-Generator: grunt-wp-i18n 0.5.3\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
 
 #: classes/class-wpp-fms-part.php:151 classes/class-wpp-fms-part.php:258
 #: classes/class-wpp-fms-part.php:294
